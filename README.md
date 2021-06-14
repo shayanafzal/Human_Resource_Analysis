@@ -32,5 +32,9 @@ Four major points from the two analysis deliverables
 
 
 ### Summary
-Roles that will need to be filled as the “silver tsunami” begins to make an impact
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+The analysis shows that we do not have enough candidates within the company to replace those that will be retiring in the near future. However, the analysis has also identified 1549 candidates that are currently working with the company and can be mentored for senior roles in the near future. This will be of great benefit for the business as these cadidates still now have the oppertunity to learn from those in senior roles who will be retiring in the near future. 
+
+The analysis has indicated a total of 90,038 employees that will retire in the near future. This means that a large number of candidates will need to be hired from outside in order to fulfill the position that will open in the future. However, knowing this in advance will allow the company to develop and implement a strategy that will allow them to promote current employess into senior roles and hire from outside in order to fulfill the remaining roles.
