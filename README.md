@@ -10,6 +10,8 @@ Four major points from the two analysis deliverables
 
 1. The result show that the highest number of employees retiring are those working as Senior Engineers and Senior Staff. This makes sense as it is safe to assume that senior positions at the company are being held by those that have been working in the industry for a long time and are close towards reaching their retirement age. The retiring titles summary can be found [here](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/8124dba37867c14516415d4acba45fdebc7eca1a/Data/retiring_titles.csv). There results are also summarized below.
 
+![](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/d104a75e417f38aba3401e87c4858dab86c77a39/Screen%20Shots/Retiring_Titles.png)
+
 
 
 
