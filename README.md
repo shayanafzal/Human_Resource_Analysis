@@ -9,10 +9,10 @@ The purpose of this analysis is to determine the number of retiring employees pe
 Four tables have been created for this analysis that can be accessed below
 
 
-[Mentorship Eligbility](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/mentorship_eligibilty.csv)
-[Retirement Titles](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/retirement_titles.csv)
-[Unique Titles](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/unique_titles.csv)
-[Retiring Titles](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/retiring_titles.csv)
+* [Mentorship Eligbility](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/mentorship_eligibilty.csv)
+* [Retirement Titles](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/retirement_titles.csv)
+* [Unique Titles](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/unique_titles.csv)
+* [Retiring Titles](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/retiring_titles.csv)
 
 The SQL coding use to generate these results can be accessed [here](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Pewlett-Hackard-Analysis-Challenge%20Code.sql).
 
