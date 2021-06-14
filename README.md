@@ -26,6 +26,8 @@ Four major points from the two analysis deliverables
 
 3. The result also show that only 2 of the managers will be retiring. Hence, the others mananagers currently employed at the company can be trained to move into higher positions that will open up once the senior employees start to retire.
 
+4. As a second part of this analysis, we determined current employees who are ideal candidates to be mentored into senior roles that will open up in the near future. The complete table can be accessed [here](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/09a7bb9114e1a0a2a29104cade0764985adc0057/Data/mentorship_eligibilty.csv). This table lists a total of 1549 candidates that are ideal for mentorship. This will help the business plan ahead and invest in the training and mentorship of their current stuff for senior level position that will open up in teh near future.
+
 
 
 
