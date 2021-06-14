@@ -12,10 +12,7 @@ Four major points from the two analysis deliverables
 
 ![](https://github.com/shayanafzal/Pewlett-Hackard-Analysis/blob/d104a75e417f38aba3401e87c4858dab86c77a39/Screen%20Shots/Retiring_Titles.png)
 
-
-
-
-5. The result also show that only 2 of the managers will be retiring. Hence, the others mananagers currently employed at the company can be trained to move into higher positions that will open up once the senior employees start to retire.
+2. The result also show that only 2 of the managers will be retiring. Hence, the others mananagers currently employed at the company can be trained to move into higher positions that will open up once the senior employees start to retire.
 
 
 
